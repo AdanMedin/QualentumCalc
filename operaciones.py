@@ -21,4 +21,5 @@ if __name__ == "__main__":
  print(suma(5, 3))
  print(resta(5, 3))
  print(multiplicacion(4, 2))
+ print(division(4, 2))
  print(raizCuadrada(3))
